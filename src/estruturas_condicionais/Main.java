@@ -31,3 +31,5 @@ public class Main {
         sc.close();
     }
 }
+
+//programa para ler saudaçõa
