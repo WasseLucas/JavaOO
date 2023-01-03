@@ -21,3 +21,13 @@ public class ProblemaEx {
         sc.close();
     }
 }
+
+
+// Resumo da aula
+
+/* Estrutura repetitiva "Enquanto"
+ * Recomendada quando não se sabe previamente a quantidaded de repstições
+ * Regra:
+ *    verdadeito: executa e volta
+ *    Falso: pula fora
+ * */
