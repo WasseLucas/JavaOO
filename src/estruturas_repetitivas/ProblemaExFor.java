@@ -2,7 +2,7 @@ package estruturas_repetitivas;
 
 import java.util.Scanner;
 
-public class PreoblemaExFor {
+public class ProblemaExFor {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
