@@ -17,7 +17,6 @@ public class Exercicio04 {
             x = x + 1;
         }
 
-
         System.out.println("Fim");
 
         sc.close();
