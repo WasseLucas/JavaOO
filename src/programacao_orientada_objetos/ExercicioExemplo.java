@@ -47,5 +47,6 @@ public class ExercicioExemplo {
         }
 
         sc.close();
+
     }
 }
