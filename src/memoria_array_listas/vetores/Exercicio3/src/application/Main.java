@@ -48,6 +48,7 @@ public class Main {
         System.out.printf("\nAltura media = %.2f\n", alturamedia);
         System.out.printf("Pessoas com menos de 16 anos: %.1f%%\n", percentualMenores);
 
+        //Função para imprimir pessoas menor de 16 anos
         for(int i=0; i<n; i++) {
             if (idades[i] < 16) {
                 System.out.printf("%s\n", nomes[i]);
